@@ -1,5 +1,10 @@
 # EchoProxy
 
+## 0.9.8
+* Support auto detect HEX body.
+* Support TAB switch in EchoSend.
+* Bug fix: mouse move auto select.
+
 ## 0.9.7
 * Support CTRL+F shortcut.
 * Support Diff records.
